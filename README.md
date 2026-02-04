@@ -13,4 +13,3 @@ End-to-end machine learning pipeline for detecting fraudulent credit card transa
 ## Evaluation
 The project prioritizes recall due to the high cost of missed fraud, using ROC-AUC as the primary ranking metric and threshold tuning to control operational trade-offs.
 
-## Structure
