@@ -1,0 +1,7 @@
+data/
+models/
+experiments/
+__pycache__/
+*.pkl
+*.csv
+.env
